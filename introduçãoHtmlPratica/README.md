@@ -17,3 +17,35 @@ Usadas como meio para estruturar a exibição de um navegador web, são delimita
 ### ***Atributos***:
 
 Configurações/propriedades para exibição de tags de maneira personaliada quando exibidas ao usuario, todas as tags podem ter certas propriedades alteradas, ex: `<strong id="titulo">`, o atributo id serve como identificador.
+
+## ***Listas***:
+
+### ***Lista ordenada*** 
+
+```html
+    ...
+    <ol>
+        <li> ITEM 1 </li>
+        <li> ITEM 2 </li>
+        <li> ITEM 3 </li>
+            <OL>
+                <li> ITEM 3.1 </li>
+                <li> ITEM 3.2 </li>
+                <li> ITEM 3.3 </li>
+            </OL>
+    </ol>
+    ...
+
+```
+
+### ***Lista não ordenada***
+
+```html
+    ...
+    <ul>
+        <li> ITEM 1 </li>
+        <li> ITEM 2 </li>
+        <li> ITEM 3 </li>
+    </ul>
+    ...
+```
