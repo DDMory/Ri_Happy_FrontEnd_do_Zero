@@ -1,0 +1,15 @@
+# Estrutura Básica do HTML
+
+## Introdução HTML:
+
+HTML não é uma lingugem de programação, mas sim de marcação para anotação de textos, imagens e outros recursos relacionados à exibição em um navergador web.
+
+Consiste em 2 partes quando dentro de `<HTML></HTML>`:
+
+- cabeça( `<head></head>` ): contém informações pre-carregadas antes da exibição do conteudo pro usuario.
+
+- Corpo( `<body></body>` ): Informação que de fato é exibido ao usuario.
+
+## Tags:
+
+Usadas como meio para estruturar a exibição de um navegador web, são delimitador por '<''>', normalmente, quando uma tag é aberta `<title>`, ela precisará ser fechada, `</title>`, mas há aquelas tags que não precisam ser fechadas
