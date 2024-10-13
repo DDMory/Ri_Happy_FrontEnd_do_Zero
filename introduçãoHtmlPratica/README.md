@@ -18,9 +18,9 @@ Usadas como meio para estruturar a exibição de um navegador web, são delimita
 
 Configurações/propriedades para exibição de tags de maneira personaliada quando exibidas ao usuario, todas as tags podem ter certas propriedades alteradas, ex: `<strong id="titulo">`, o atributo id serve como identificador.
 
-## ***Listas***:
+### ***Listas***:
 
-### ***Lista ordenada*** 
+#### ***Lista ordenada*** 
 
 ```html
     ...
@@ -38,7 +38,7 @@ Configurações/propriedades para exibição de tags de maneira personaliada qua
 
 ```
 
-### ***Lista não ordenada***
+#### ***Lista não ordenada***
 
 ```html
     ...
@@ -47,5 +47,23 @@ Configurações/propriedades para exibição de tags de maneira personaliada qua
         <li> ITEM 2 </li>
         <li> ITEM 3 </li>
     </ul>
+    ...
+```
+
+### ***Link***
+
+Links são declaras usango a tag `<a>`
+
+```html
+    ...
+    <ul>
+        <li>
+            <a href="https://www.linkedin.com/in/douglas-mory/" target="_self">PERFIL LINKEDIN </a>
+        </li>
+        
+        <li>
+            <a href="https://github.com/DDMory">PERFIL GITHUB </a>
+        </li>
+    <ul>    
     ...
 ```
