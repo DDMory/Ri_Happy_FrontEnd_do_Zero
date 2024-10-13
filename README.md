@@ -6,7 +6,7 @@ Sinsta-se livre para realiar clone do conteudo para armazenar em seu proprio git
 
 # Clonando conteudo
 
-1. `git clone "https://github.com/DDMory/Ri_Happy_FrontEnd_do_Zero.git"`
+1. `git clone https://github.com/DDMory/Ri_Happy_FrontEnd_do_Zero.git`
 
 
 Agora se divirta!!
